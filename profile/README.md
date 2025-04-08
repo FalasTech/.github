@@ -32,7 +32,8 @@ We are actively working on:
 
 ## 📬 Contact & Socials  
 📧 **Email:** [falastechps@gmail.com](mailto:falastechps@gmail.com)  
-📢 **Twitter:** [@coming soon](https://twitter.com/FalasTech)  
+📢 **Twitter:** [@FalasTech](https://twitter.com/FalasTech)
+📢 **Instagram:** [@FalasTech](https://www.instagram.com/falastech)
 🌐 **Website:** [https://falastech.org](https://falastech.org) *(Coming Soon!)*  
 
 ---
