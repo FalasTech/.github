@@ -41,7 +41,13 @@ Every voice, every line of code, every post counts.
 
 1. Fork any of our repos  
 2. Open a pull request  
-3. Chat with us on [X (Twitter)](#) or [Instagram](#)
+3. Chat with us on [X (Twitter)](https://x.com/falastech) or [Instagram](https://instagram.com/falastech)
+
+---
+
+## 🤝 Connect with Us
+
+See: [Social Links](.github/profile/social.md)
 
 ---
 
