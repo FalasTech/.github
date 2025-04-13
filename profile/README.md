@@ -1,41 +1,48 @@
-# FalasTech 🌍💻  
-**Empowering Palestine Through Technology**  
+# 🌐 FalasTech
 
-🚀 FalasTech is an open-source initiative dedicated to building digital tools for Palestinian advocacy, awareness, and technological empowerment. We develop and support projects that enhance accessibility, communication, and cybersecurity for activists, journalists, and communities.  
+**FalasTech** is a tech-for-justice collective building open-source tools, digital resources, and creative designs in support of **Palestinian liberation**.
 
----
-
-## 🌟 Our Mission  
-- Develop **open-source tech tools** for Palestinian advocacy.  
-- Support digital security and information accessibility.  
-- Empower developers to contribute to impactful projects.  
-- Provide resources and awareness on tech for activism.  
+We are developers, designers, and creators united to empower the resistance through technology and digital advocacy.
 
 ---
 
-## 🔧 Projects & Tools  
-We are actively working on:  
-✅ Web platforms for advocacy & awareness.  
-✅ Open-source data visualization & reporting tools.  
-✅ Privacy-focused communication solutions.  
+## 🔥 Our Mission
 
-[📂 Browse Our Projects](https://github.com/FalasTech)  
+We use technology to:
 
----
+- Raise global awareness  
+- Fight digital censorship  
+- Support humanitarian relief  
+- Build platforms for digital resistance  
 
-## 🤝 Get Involved  
-💡 **Contribute:** Submit issues, pull requests, or suggest new tools.  
-📢 **Spread Awareness:** Share our work & collaborate.  
-🌍 **Join Us:** If you're a developer, designer, or activist, let's work together!  
+> Because **digital freedom is resistance**.
 
 ---
 
-## 📬 Contact & Socials  
-📧 **Email:** [falastechps@gmail.com](mailto:falastechps@gmail.com)  
-📢 **Twitter:** [@FalasTech](https://twitter.com/FalasTech)
-📢 **Instagram:** [@FalasTech](https://www.instagram.com/falastech)
-🌐 **Website:** [https://falastech.org](https://falastech.org) *(Coming Soon!)*  
+## ✊ How to Get Involved
+
+- 💡 Suggest ideas or tools  
+- 🎨 Submit designs or code  
+- 📣 Share our content & raise your voice  
+
+Every voice, every line of code, every post counts.
 
 ---
 
-### 🎗️ *Technology for Resistance, Innovation for Freedom*
+## 🚀 Projects
+
+- 🌐 [falastech.org](https://falastech.pages.dev) — Our digital home  
+- 💸 [Donation Page](#) — Help sustain infrastructure and hosting  
+- 🧰 [Toolkits](#) — Printable & online activism tools *(coming soon)*
+
+---
+
+## 🛠️ Contribute
+
+1. Fork any of our repos  
+2. Open a pull request  
+3. Chat with us on [X (Twitter)](#) or [Instagram](#)
+
+---
+
+**Together, we _code for liberation_.**
