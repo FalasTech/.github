@@ -47,7 +47,7 @@ Every voice, every line of code, every post counts.
 
 ## 🤝 Connect with Us
 
-See: [Social Links](socials.md)
+➡️ [Click here to view our social links](socials.md)
 
 ---
 
