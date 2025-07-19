@@ -31,9 +31,9 @@ Every voice, every line of code, every post counts.
 
 ## 🚀 Projects
 
-- 🌐 [falastech.org](https://falastech.org/) — Main site  
+- 🌐 [falastech.org](https://falastech.org) — Main site  
+- 🖼️ [ppm.falastech.org](https://ppm.falastech.org) — Palestine Profile Pic 
 - ✨ [falastech-projects](https://github.com/FalasTech/falastech-projects) — Community-built digital tools 
-- 🧰 [falastech-tools](https://github.com/FalasTech/falastech-tools) — Collection of open-source utilities
 - More coming soon...
 
 ---
